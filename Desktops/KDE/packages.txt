@@ -1,11 +1,12 @@
 plasma-desktop
+kscreen
+plasma-nm
+plasma-pa
 pipewire-jack
 gnu-free-fonts
-phonon-qt5-vlc
-plasma-nm
+phonon-qt6-vlc
 plasma-disks
-plasma-pa
-sddm
+sddm-kcm
 konsole
 kate
 dolphin
@@ -22,6 +23,7 @@ plasma-systemmonitor
 flameshot
 hunspell
 hunspell-en_us
+aspell-en
 breeze-grub
 plasma-browser-integration
 xdg-desktop-portal-kde
