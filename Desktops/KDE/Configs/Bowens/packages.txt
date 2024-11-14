@@ -1,3 +1,4 @@
 gamemode
 lib32-gamemode
 gamescope
+go
