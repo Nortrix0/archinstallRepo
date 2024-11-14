@@ -31,3 +31,4 @@ noto-fonts-emoji
 kde-gtk-config
 steam
 ark
+power-profiles-daemon
