@@ -3,3 +3,5 @@ lib32-gamemode
 gamescope
 go
 flatpak-kcm
+discover
+packagekit-qt6
