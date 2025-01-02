@@ -4,7 +4,6 @@ plasma-nm
 plasma-pa
 pipewire-jack
 gnu-free-fonts
-phonon-qt6-vlc
 plasma-disks
 sddm-kcm
 konsole
