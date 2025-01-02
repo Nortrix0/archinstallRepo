@@ -1,4 +1,4 @@
-VIDEOPLAYER=$(whiptail --nocancel --noitem --menu "Which Video Player Do You Want?" 0 0 0 VLC ​ MPV ​ "Both (VLC Backend)" ​ "Both (MPV Backend)" ​  3>&1 1>&2 2>&3))
+VIDEOPLAYER=$(whiptail --nocancel --noitem --menu "Which Video Player Do You Want?" 0 0 0 VLC ​ MPV ​ "Both (VLC Backend)" ​ "Both (MPV Backend)" ​  3>&1 1>&2 2>&3)
 if [[ $VIDEOPLAYER == "VLC" ]] then
 	echo "phonon-qt6-vlc\n" >> ./install_packages.txt
 elif [[ $VIDEOPLAYER == "VLC" ]] then
