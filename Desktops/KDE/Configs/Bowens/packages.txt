@@ -2,3 +2,4 @@ gamemode
 lib32-gamemode
 gamescope
 go
+flatpak-kcm
