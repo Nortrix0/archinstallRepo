@@ -5,3 +5,4 @@ go
 flatpak-kcm
 discover
 packagekit-qt6
+reflector

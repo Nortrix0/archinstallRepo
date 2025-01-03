@@ -1,1 +1,0 @@
-echo -e "--save /etc/pacman.d/mirrorlist\n--country US\n--protocol https\n--latest 20" > /etc/xdg/reflector/reflector.conf
